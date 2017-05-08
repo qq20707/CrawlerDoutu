@@ -1,0 +1,7 @@
+1.requests 打开网页获取源码
+网站禁止爬虫:模拟浏览器访问,加上headers
+f12--network ---f5----name---headers
+
+2.获取外页
+bs4
+获取超链接
